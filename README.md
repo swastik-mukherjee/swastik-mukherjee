@@ -5,24 +5,27 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swastik-mukherjee" alt="swastik-mukherjee" /></a> </p>
 
-- 🔭 I’m currently working on **Tata Consultancy Services**
+- 🔭 I’m currently working as **Cloud DevOps Engineer** in **Tata Consultancy Services**
 
-- 🌱 I’m currently learning **Google Cloud Platform**
+- 🌱 I’m Poficient on **Microsoft Azure Cloud Platform** and learning **Google Cloud platform and AWS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/swastik-mukherjee](https://github.com/swastik-mukherjee)
 
 - 📝 I regularly write articles on [iamswastik.medium.com](iamswastik.medium.com)
 
-- 💬 Ask me about **GCP, CMS, Digital Marketing**
+- 💬 Ask me about **Azure, DevOps, IaC, Terraform, Ansible, Python, Linux Administration,Shell Scripting, GCP, Blogging**
 
 - 📫 How to reach me **swastik.reach@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1FJ-B7VH6uS9kkJE6ZwtqeQgTXiRwtVYE/view?usp=sharing](https://drive.google.com/file/d/1FJ-B7VH6uS9kkJE6ZwtqeQgTXiRwtVYE/view?usp=sharing)
 
-- ⚡ Fun fact **I am dendrophile and bibliophile**
+- ⚡ Fun fact **I Code to Create Infrastructure**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+https://iamswastik.medium.com/why-you-must-need-a-version-control-system-a99aabf56b51
+https://iamswastik.medium.com/git-the-stupid-content-tracker-32e118d431bb
+https://iamswastik.medium.com/so-what-does-this-microsoft-azure-cloud-platform-have-for-you-d4219e5a7f5a
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
