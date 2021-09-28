@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Swastik Mukherjee</h1>
-<h3 align="center">A Cloud Engineer and DevOps Enthusiasts</h3>
+<h3 align="center">A Cloud DevOps Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swastik-mukherjee&label=Profile%20views&color=0e75b6&style=flat" alt="swastik-mukherjee" /> </p>
 
@@ -23,9 +23,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-https://iamswastik.medium.com/why-you-must-need-a-version-control-system-a99aabf56b51
-https://iamswastik.medium.com/git-the-stupid-content-tracker-32e118d431bb
-https://iamswastik.medium.com/so-what-does-this-microsoft-azure-cloud-platform-have-for-you-d4219e5a7f5a
+- [Why you must need a Version Control System ?] (https://iamswastik.medium.com/why-you-must-need-a-version-control-system-a99aabf56b51)
+- [Git : The stupid content tracker ] (https://iamswastik.medium.com/git-the-stupid-content-tracker-32e118d431bb)
+- [So, What does this Microsoft Azure Cloud Platform have for you?] (https://iamswastik.medium.com/so-what-does-this-microsoft-azure-cloud-platform-have-for-you-d4219e5a7f5a)
+- [Be Aware of Docker, It can be addictive] (https://iamswastik.medium.com/be-aware-of-docker-it-can-be-addictive-a696bcf52a1f)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
