@@ -22,12 +22,12 @@
 - ⚡ Fun fact **I Code to Create Infrastructure**
 
 ### Blogs posts
-<!-- BLOG-POST-LIST:START -->
+
 - [Why you must need a Version Control System ?] (https://iamswastik.medium.com/why-you-must-need-a-version-control-system-a99aabf56b51)
 - [Git : The stupid content tracker ] (https://iamswastik.medium.com/git-the-stupid-content-tracker-32e118d431bb)
 - [So, What does this Microsoft Azure Cloud Platform have for you?] (https://iamswastik.medium.com/so-what-does-this-microsoft-azure-cloud-platform-have-for-you-d4219e5a7f5a)
 - [Be Aware of Docker, It can be addictive] (https://iamswastik.medium.com/be-aware-of-docker-it-can-be-addictive-a696bcf52a1f)
-<!-- BLOG-POST-LIST:END -->
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
